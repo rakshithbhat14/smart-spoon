@@ -1,2 +1,2 @@
-#smart-spoon
+smart Spoon#smart-spoon
 From a research and commercialization standpoint, the project also includes a thorough market analysis to assess user demand, expected features, and willingness to adopt such a device. A detailed dataset has been gathered and analyzed to explore purchase consideration trends across age groups and dietary conditions. The results reveal significant interest in such assistive technology, especially when paired with features like customization, health tracking, and AI-based suggestions.
